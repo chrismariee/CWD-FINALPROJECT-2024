@@ -1,0 +1,3405 @@
+/* body custom */
+.all-in {
+    background-image: linear-gradient(0deg, #333333, #333333, #444444, #555555, #666666, #777777, #888888, #999999, #999999, #d8d8d8, #d8d8d8, #f5f5f5, #f5f5f5);
+}
+
+/* space above nav bar */
+.nav-space {
+    padding: 20px 50px 20px;
+    background-color: #333333;
+}
+
+/* main nav bar custom */
+.a-nav {
+    background-color: white;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.nav-row {
+    height: 80px;
+}
+
+.nav-col {
+    height: 80px;
+}
+
+.nav-row-2 {
+    height: 80px;
+    position: relative;
+    top: 10px;
+}
+
+.nav-col-2 {
+    height: 80px;
+}
+
+.container {
+    margin: 0px 20px 0px;
+    width: 95%;
+}
+
+.nav-con {
+    margin: 0px 20px 0px;
+    width: 95%;
+    position: relative;
+    display: inline;
+    top: -80px;
+    height: 70px;
+}
+
+/* main logo inside <a> tag and <img> in nav bar */
+.logo-img {
+    margin-top: 0px;
+    margin-left: 30px;
+    height: 80px;
+}
+
+/* <li> and <a> for text nav */
+li#drop-product.list-btn1 {
+    width: 110.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 275px;
+    top: -86px;
+}
+
+a.btn1-fc {
+    width: 110.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+/* <li> and <a> hovered */
+li#drop-product.list-btn1:hover, a.btn1-fc:hover, li#drop-product.list-btn1:focus, a.btn1-fc:focus {
+    background-color: transparent;
+}
+
+/* <span> custom for labels (text) in Products button */
+.dropdown-btn1 {
+    font-weight: bold;
+    font-family: Arial, Helvetica;
+    color: black;
+    width: 80.55px;
+    height: 20px;
+    z-index: 1;
+    position: relative;
+    top: -13px;
+    left: -7px;
+}
+
+/* icon customs <i> in Products button */
+.icon-pos1 {
+    position: relative;
+    top: -64px;
+    left: 48px;
+    height: 20px;
+    width: 25px;
+    color: black;
+}
+
+/* <li> and <a> for text nav */
+li#drop-services.list-btn2 {
+    width: 109.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 292px;
+    top: -86px;
+}
+
+a.btn2-fc {
+    width: 109.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+/* <li> and <a> hovered */
+li#drop-services.list-btn2:hover, a.btn2-fc:hover, li#drop-services.list-btn2:focus, a.btn2-fc:focus {
+    background-color: transparent;
+}
+
+/* <span> custom for labels (text) in Products button */
+.dropdown-btn2 {
+    font-weight: bold;
+    font-family: Arial, Helvetica;
+    color: black;
+    width: 80.55px;
+    height: 20px;
+    position: relative;
+    top: -13px;
+    left: -11px;
+}
+
+/* icon customs <i> in Products button */
+.icon-pos2 {
+    position: relative;
+    top: -64px;
+    left: 46px;
+    width: 76.56px;
+    height: 20px;
+    color: black;
+}
+
+/* <li> and <a> for text nav */
+li#drop-pricing.list-btn3 {
+    width: 75.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 310px;
+    top: -86px;
+}
+
+a.btn3-fc {
+    width: 75.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+/* <li> and <a> hovered */
+li#drop-pricing.list-btn3:hover, a.btn3-fc:hover, li#drop-pricing.list-btn3:focus, a.btn3-fc:focus {
+    background-color: transparent;
+}
+
+/* <span> custom for labels (text) in Products button */
+.dropdown-btn3 {
+    font-weight: bold;
+    font-family: Arial, Helvetica;
+    color: black;
+    z-index: 1;
+    width: 80.55px;
+    height: 20px;
+    position: relative;
+    top: -13px;
+    left: -5px;
+}
+
+/* <li> and <a> for text nav */
+li#drop-why.list-btn4{
+    width: 125.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 328px;
+    top: -86px;
+}
+
+a.btn4-fc {
+    width: 125.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+/* <li> and <a> hovered */
+li#drop-why.list-btn4:hover, a.btn4-fc:hover, li#drop-why.list-btn4:focus, a.btn4-fc:focus {
+    background-color: transparent;
+}
+
+/* <span> custom for labels (text) in Products button */
+.dropdown-btn4 {
+    font-weight: bold;
+    font-family: Arial, Helvetica;
+    color: black;
+    z-index: 1;
+    white-space: nowrap;
+    width: 140.55px;
+    height: 20px;
+    position: relative;
+    top: -13px;
+    left: -7px;
+}
+
+/* <li> and <a> for text nav */
+li#drop-about.list-btn5 {
+    width: 109.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 345px;
+    top: -86px;
+}
+
+a.btn5-fc {
+    width: 109.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+/* <li> and <a> hovered */
+li#drop-about.list-btn5:hover, a.btn5-fc:hover, li#drop-about.list-btn5:focus, a.btn5-fc:focus {
+    background-color: transparent;
+}
+
+/* <span> custom for labels (text) in Products button */
+.dropdown-btn5 {
+    font-weight: bold;
+    font-family: Arial, Helvetica;
+    color: black;
+    z-index: 1;
+    width: 80.55px;
+    height: 20px;
+    position: relative;
+    top: -13px;
+    left: -7px;
+}
+
+/* icon customs <i> in Products button */
+.icon-pos5 {
+    position: relative;
+    top: -64px;
+    left: 46px;
+    width: 76.56px;
+    height: 20px;
+    color: black;
+}
+
+
+/* <a> tag inside nav bar for menu bar */
+a.sidenav-trigger {
+    width: 50.55px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 3px;
+    top: 9px;
+}
+
+a.sidenav-trigger:hover, a.sidenav-trigger:focus {
+    background-color: transparent;
+}
+
+/* menu icon bar for side nav */
+i.menu {
+    color: #333333;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 23px;
+    height: 10px;
+}
+
+/* <li> and <a> for gif in sidenav */
+li#btn-logo.side-logo, a.side-logo-img {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    background-color: transparent;
+    position: relative;
+    left: 0px;
+    padding-bottom: 20px;
+}
+
+/* hovered and focused <li> and <a> for gif in sidenav */
+li#btn-logo.side-logo:hover, a.side-logo-img:hover, li#btn-logo.side-logo:focus, a.side-logo-img:focus {
+    width: 100%;
+    background-color: transparent;
+}
+
+/* gif inside sidenav */
+img.side-img{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    left: 0px;
+    border: none;
+}
+
+/* trigger side nav menu bar */
+ul#slide-out.sidenav {
+    padding-top: 5px;
+    background-image: linear-gradient(0deg, #666666, #777777, #888888, #999999, #d8d8d8, #f5f5f5, #f5f5f5, #ffffff, #ffffff, #ffffff);
+    width: 350px;
+}
+
+/* texts inside side nav when hoverer or focused */
+ul#slide-out.sidenav a:hover, ul#slide-out.sidenav a:focus {
+    text-decoration: underline;
+}
+
+/* ITEM 1 */
+li#btn-product.side-btn1, a.sbtn-1 {
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 0px;
+}
+
+li#btn-product.side-btn1:hover, a.sbtn-1:hover, li#btn-product.side-btn1:focus, a.sbtn-1:focus {
+    height: 50px;
+    background-color: transparent;
+}
+
+/* products text in sidenav */
+.text-side1 {
+    font-size: 16px;
+    font-weight: 250px;
+    font-family: Arial, Helvetica;
+    color: black;
+}
+
+/* icon fortext 1 */
+i.fa-solid.fa-chevron-right.s-icon1.right{
+    color: black;
+    font-weight: 50px;
+    position: relative;
+    top: 18px;
+}
+
+/* ITEM 2 */
+li#btn-services.side-btn2, a.sbtn-2 {
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 0px;
+}
+
+li#btn-services.side-btn2:hover, a.sbtn-2:hover, li#btn-services.side-btn2:focus, a.sbtn-2:focus {
+    height: 50px;
+    background-color: transparent;
+}
+
+/* services text in sidenav */
+.text-side2 {
+    font-size: 16px;
+    font-weight: 250px;
+    font-family: Arial, Helvetica;
+    color: black;
+}
+
+/* icon fortext 2 */
+i.fa-solid.fa-chevron-right.s-icon2.right{
+    color: black;
+    font-weight: 50px;
+    position: relative;
+    top: 18px;
+}
+
+/* ITEM 3 */
+li#btn-pricing.side-btn3, a.sbtn-3 {
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 0px;
+}
+
+li#btn-pricing.side-btn3:hover, a.sbtn-3:hover, li#btn-pricing.side-btn3:focus, a.sbtn-3:focus {
+    height: 50px;
+    background-color: transparent;
+}
+
+/* pricing text in sidenav */
+.text-side3 {
+    font-size: 16px;
+    font-weight: 250px;
+    font-family: Arial, Helvetica;
+    color: black;
+}
+
+/* icon fortext 3 */
+i.fa-solid.fa-chevron-right.s-icon3.right{
+    color: black;
+    font-weight: 50px;
+    position: relative;
+    top: 18px;
+}
+
+/* ITEM 4 */
+li#btn-why.side-btn4, a.sbtn-4 {
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 0px;
+}
+
+li#btn-why.side-btn4:hover, a.sbtn-4:hover, li#btn-why.side-btn4:focus, a.sbtn-4:focus {
+    height: 50px;
+    background-color: transparent;
+}
+
+/* why text in sidenav */
+.text-side4 {
+    font-size: 16px;
+    font-weight: 250px;
+    font-family: Arial, Helvetica;
+    color: black;
+}
+
+/* icon fortext 4 */
+i.fa-solid.fa-chevron-right.s-icon4.right{
+    color: black;
+    font-weight: 50px;
+    position: relative;
+    top: 18px;
+}
+
+/* ITEM 5 */
+li#btn-about.side-btn5, a.sbtn-5 {
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 0px;
+}
+
+li#btn-about.side-btn5:hover, a.sbtn-5:hover, li#btn-about.side-btn5:focus, a.sbtn-5:focus {
+    height: 50px;
+    background-color: transparent;
+}
+
+/* about text in sidenav */
+.text-side5 {
+    font-size: 16px;
+    font-weight: 250px;
+    font-family: Arial, Helvetica;
+    color: black;
+}
+
+/* icon fortext 5 */
+i.fa-solid.fa-chevron-right.s-icon5.right{
+    color: black;
+    font-weight: 50px;
+    position: relative;
+    top: 18px;
+}
+
+/* <li> for design in sidenav */
+li#ds-img.side-ds {
+    height: 395px;
+    background-color: transparent;
+    position: relative;
+    top:165px;
+}
+
+/* <a> for design in sidenav */
+a.side-ds-img {
+    height: 395px;
+    background-color: transparent;
+    position: relative;
+    left: 0px;
+}
+
+/* hovered and focused <li> and <a> for design in sidenav */
+li#ds-img.side-ds:hover, a.side-ds-img:hover, li#ds-img.side-ds:focus, a.side-ds-img:focus {
+    background-color: transparent;
+}
+
+/* design img inside sidenav */
+img.side-img-ds {
+    height: 395px;
+    position: relative;
+    left: -32px;
+    border: none;
+}
+
+/* <div> con for welcome text */
+.centered-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* <div> col for welcome text */
+.centered-column {
+    margin: 0px 50px 0px;
+}
+
+/* header welcome text */
+.wc-head {
+    font-size: clamp(35px, 6vw, 60px);
+    font-weight: bold;
+}
+
+/* sub header text quote */
+.wc-subhead {
+    font-size: clamp(13.5px, 2vw, 20px);
+    font-family: Salesforce-Sans;
+}
+
+/* for responsive quotes icon text */
+/* For small screens (e.g., phones) */
+@media (max-width: 480px) {
+    .fa-quote-right, .fa-quote-left {
+        font-size: 8px;
+        position: relative;
+        top: -4px;
+        font-weight: bold;
+        color: black;
+    }
+}
+
+/* For medium screens (e.g., tablets) */
+@media (max-width: 768px) {
+    .fa-quote-right, .fa-quote-left {
+        font-size: 8px;
+        position: relative;
+        top: -6px;
+        font-weight: bold;
+        color: black;
+    }
+}
+
+@media (min-width: 950px) {
+    .fa-quote-right, .fa-quote-left {
+        font-size: 8px;
+        position: relative;
+        top: -7px;
+        font-weight: bold;
+        color: black;
+    }
+}
+
+@media (max-width: 1199px) {
+    .fa-quote-right, .fa-quote-left {
+        font-size: 9px;
+        position: relative;
+        top: -6px;
+        font-weight: bold;
+        color: black;
+    }
+}
+
+/* For extra-large screens (e.g., large desktops) */
+@media (min-width: 1200px) {
+    .fa-quote-right, .fa-quote-left {
+        font-size: 10px;
+        position: relative;
+        top: -8px;
+        font-weight: bold;
+        color: black;
+    }
+}
+
+/* header btn custom to welcome */
+.explore-btn {
+    border-radius: 5px;
+}
+
+/* header btn text */
+.explore-text {
+    font-weight: 700px;
+}
+
+/* start of the first bg img */
+/* <div> bg cont */
+.bg-img {
+    height: 1700px;
+    width: 100%;
+}
+
+/* <div bg col */
+.bg-column {
+    width: 100%;
+}
+
+/* arc bg-img */
+.smoke-white1 {
+    width: 100%;
+}
+
+/* box bg-img */
+.bgs-white1 {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: -10px;
+}
+
+/* curve bg-img */
+.smoke-white2{
+    width: 100%;
+    height: 150px;
+    position: relative;
+    top: -18px;
+}
+/* end of the first bg img */
+
+
+
+/* bg-img for wc intro cont */
+.bg-col2 {
+    margin: 0px 5% 0px;
+    position: relative;
+}
+
+.bgs-white2 {
+    width: 100%;
+    border: #999999 5px solid;
+    border-radius: 50px;
+    transition: opacity 0.5s ease;
+    position: relative;
+}
+/* end of the bg-img for wc intro and ex-text */
+
+@media only screen and (min-width: 0){
+    .bg-col2 {
+        top: -250px;
+    }
+
+    .bgs-white2 {
+        height: 600px;
+    }
+    .cont-text {
+        position: relative;
+        top: -815px;
+    }
+    .wc-intro {
+        position: relative;
+        top: -15px;
+    }
+}
+
+
+.bg2-textcon {
+    position: relative;
+}
+
+/* <div> welcome intro container */
+.cont-text {
+    margin: 0px 15% 0px;
+    position: relative;
+}
+
+/* welcome intro text */
+.wc-intro {
+    font-size: clamp(30px, 2vw, 40px);
+    font-weight: bold;
+}
+
+/* intro text <p> */
+.intro-text {
+    font-size: clamp(13px, 2vw, 15px);
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/* expect intro text */
+.ex-intro {
+    font-size: clamp(19px, 1.2vw, 40px);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    font-weight: bold;
+}
+
+/* expect info in intro text */
+.craft-text, .food-text, .flower-text {
+    font-size: clamp(13px, 2vw, 15px);
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* container one for bg and text */
+.con1 {
+    height: 316.52px;
+    width: 100%;
+    position: relative;
+}
+
+.cake-con {
+    height: 316.52px;
+    width: 100%;
+}
+
+/* text container */
+.read-food {
+    position: relative;
+    top: -220px;
+    left: 220px;
+}
+
+/* text */
+.f-text {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    width: 190px;
+}
+
+/* link btn under text */
+.food-more {
+    position: relative;
+    top: 150px;
+    left: -190px;
+    color: whitesmoke;
+    background-color: #333333;
+    border-radius: 50px;
+    border: #333333 3px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+/* bg image for cake */
+.cake-bg {
+    width: 100%;
+}
+
+@media only screen and (min-width: 0) {
+    .con1 {
+    top: -50px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -215px;
+        left: 270px;
+    }
+
+    /* text */
+    .f-text {
+        width: 190px;
+        font-size: 11px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 5px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+
+@media only screen and (min-width: 520px) {
+    .con1 {
+        top: -20px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -225px;
+        left: 295px;
+    }
+
+    /* text */
+    .f-text {
+        width: 190px;
+        font-size: 11px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 6px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 570px) {
+    .con1 {
+        top: -5px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -257px;
+        left: 325px;
+    }
+
+    /* text */
+    .f-text {
+        width: 190px;
+        font-size: 13px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: -6px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 6px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 640px) {
+    .con1 {
+        top: 30px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -267px;
+        left: 355px;
+    }
+
+    /* text */
+    .f-text {
+        width: 235px;
+        font-size: 13px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 8px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .con1 {
+        top: 60px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -290px;
+        left: 400px;
+    }
+
+    /* text */
+    .f-text {
+        width: 240px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    .con1 {
+        top: 95px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -305px;
+        left: 428px;
+    }
+
+    /* text */
+    .f-text {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 840px) {
+    .con1 {
+        top: 150px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -315px;
+        left: 490px;
+    }
+
+    /* text */
+    .f-text {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .con1 {
+        top: 155px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -380px;
+        left: 545px;
+    }
+
+    /* text */
+    .f-text {
+        width: 350px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1060px) {
+    .con1 {
+        top: 200px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -400px;
+        left: 620px;
+    }
+
+    /* text */
+    .f-text {
+        width: 350px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .con1 {
+        top: 300px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -435px;
+        left: 700px;
+    }
+
+    /* text */
+    .f-text {
+        width: 400px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1270px) {
+    .con1 {
+        top: 380px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -455px;
+        left: 750px;
+    }
+
+    /* text */
+    .f-text {
+        width: 400px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    .con1 {
+        top: 460px;
+    }
+
+    .cake-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-food {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -505px;
+        left: 910px;
+    }
+
+    /* text */
+    .f-text {
+        width: 500px;
+        font-size: 20px;
+    }
+
+    /* link btn under text */
+    .food-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 18px;
+    }
+}
+
+/* container one for bg and text */
+.con2 {
+    height: 316.52px;
+    width: 100%;
+    position: relative;
+}
+
+.jewel-con {
+    height: 316.52px;
+    width: 100%;
+}
+
+/* text container */
+.read-jewel {
+    position: relative;
+    top: -220px;
+    left: 220px;
+}
+
+/* text */
+.j-text {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    width: 190px;
+}
+
+/* link btn under text */
+.jewel-more {
+    position: relative;
+    top: 150px;
+    left: -190px;
+    color: whitesmoke;
+    background-color: #333333;
+    border-radius: 50px;
+    border: #333333 3px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+/* bg image for cake */
+.jewel-bg {
+    width: 100%;
+}
+
+@media only screen and (min-width: 0) {
+    .con2 {
+    top: -90px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -215px;
+        left: 20px;
+    }
+
+    /* text */
+    .j-text {
+        width: 190px;
+        font-size: 11px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: -5px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 5px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 520px) {
+    .con2 {
+        top: -50px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -220px;
+        left: 25px;
+    }
+
+    /* text */
+    .j-text {
+        width: 190px;
+        font-size: 11px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: -5px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 6px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 570px) {
+    .con2 {
+        top: -5px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -257px;
+        left: 35px;
+    }
+
+    /* text */
+    .j-text {
+        width: 195px;
+        font-size: 13px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: -8px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 6px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 640px) {
+    .con2 {
+        top: 60px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -267px;
+        left: 33px;
+    }
+
+    /* text */
+    .j-text {
+        width: 235px;
+        font-size: 13px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 8px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .con2 {
+        top: 130px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -290px;
+        left: 45px;
+    }
+
+    /* text */
+    .j-text {
+        width: 240px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    .con2 {
+        top: 190px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -305px;
+        left: 38px;
+    }
+
+    /* text */
+    .j-text {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 840px) {
+    .con2 {
+        top: 280px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -315px;
+        left: 60px;
+    }
+
+    /* text */
+    .j-text {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .con2 {
+        top: 350px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -380px;
+        left: 55px;
+    }
+
+    /* text */
+    .j-text {
+        width: 350px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1060px) {
+    .con2 {
+        top: 445px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -400px;
+        left: 75px;
+    }
+
+    /* text */
+    .j-text {
+        width: 350px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .con2 {
+        top: 615px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -435px;
+        left: 85px;
+    }
+
+    /* text */
+    .j-text {
+        width: 400px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1270px) {
+    .con2 {
+        top: 735px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -455px;
+        left: 100px;
+    }
+
+    /* text */
+    .j-text {
+        width: 400px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    .con2 {
+        top: 940px;
+    }
+
+    .jewel-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-jewel {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -505px;
+        left: 110px;
+    }
+
+    /* text */
+    .j-text {
+        width: 500px;
+        font-size: 20px;
+    }
+
+    /* link btn under text */
+    .jewel-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 18px;
+    }
+}
+
+/* container one for bg and text */
+.con3 {
+    height: 316.52px;
+    width: 100%;
+    position: relative;
+}
+
+.sofa-con {
+    height: 316.52px;
+    width: 100%;
+}
+
+/* text container */
+.read-sofa {
+    position: relative;
+    top: -220px;
+    left: 220px;
+}
+
+/* text */
+.s-text {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    width: 190px;
+}
+
+/* link btn under text */
+.sofa-more {
+    position: relative;
+    top: 150px;
+    left: -190px;
+    color: whitesmoke;
+    background-color: #333333;
+    border-radius: 50px;
+    border: #333333 3px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+/* bg image for cake */
+.sofa-bg {
+    width: 100%;
+}
+
+@media only screen and (min-width: 0) {
+    .con3 {
+    top: -130px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -219px;
+        left: 270px;
+    }
+
+    /* text */
+    .s-text {
+        width: 190px;
+        font-size: 11px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: -7px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 5px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 520px) {
+    .con3 {
+        top: -80px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -225px;
+        left: 290px;
+    }
+
+    /* text */
+    .s-text {
+        width: 190px;
+        font-size: 11px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: -5px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 6px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 570px) {
+    .con3 {
+        top: -5px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -257px;
+        left: 320px;
+    }
+
+    /* text */
+    .s-text {
+        width: 210px;
+        font-size: 13px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: -8px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 6px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 640px) {
+    .con3 {
+        top: 93px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -267px;
+        left: 355px;
+    }
+
+    /* text */
+    .s-text {
+        width: 235px;
+        font-size: 13px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 8px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .con3 {
+        top: 195px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -290px;
+        left: 400px;
+    }
+
+    /* text */
+    .s-text {
+        width: 240px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    .con3 {
+        top: 285px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -305px;
+        left: 428px;
+    }
+
+    /* text */
+    .s-text {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 840px) {
+    .con3 {
+        top: 410px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -315px;
+        left: 490px;
+    }
+
+    /* text */
+    .s-text {
+        width: 280px;
+        font-size: 14px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .con3 {
+        top: 545px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -380px;
+        left: 545px;
+    }
+
+    /* text */
+    .s-text {
+        width: 350px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1060px) {
+    .con3 {
+        top: 690px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -400px;
+        left: 620px;
+    }
+
+    /* text */
+    .s-text {
+        width: 350px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .con3 {
+        top: 930px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -435px;
+        left: 700px;
+    }
+
+    /* text */
+    .s-text {
+        width: 400px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1270px) {
+    .con3 {
+        top: 1090px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -455px;
+        left: 750px;
+    }
+
+    /* text */
+    .s-text {
+        width: 400px;
+        font-size: 18px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    .con3 {
+        top: 1425px;
+    }
+
+    .sofa-con {
+        height: 316.52px;
+    }
+
+    /* text container */
+    .read-sofa {
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: -505px;
+        left: 910px;
+    }
+
+    /* text */
+    .s-text {
+        width: 500px;
+        font-size: 20px;
+    }
+
+    /* link btn under text */
+    .sofa-more {
+        position: relative;
+        top: 10px;
+        left: 0px;
+        border-radius: 50px;
+        border: #333333 10px solid;
+        height: 20px;
+        width: 80px;
+        text-align: center;
+        font-size: 18px;
+    }
+}
+
+.food-img:hover, .food-img:focus, .craft-img:hover, .craft-img:focus, .flower-img:hover, .flower-img:focus {
+    background-color: transparent;
+}
+
+.card-option1:hover, .card-option1:focus, .card-option2:hover, .card-option2:focus, .card-option3:hover, .card-option3:focus {
+    border-color: #666666;
+    background-color: #d8d8d8;
+}
+
+
+.card-cont {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+.card-option1 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    border: #999999 20px solid;
+    margin: 20px 0px 20px;
+    position: relative;
+}
+
+.food-img {
+    width: 190px;
+    height: 190px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.card-option2 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    border: #999999 20px solid;
+    margin: 20px 0px 20px;
+    position: relative;
+}
+
+.craft-img {
+    width: 170px;
+    height: 170px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.card-option3 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    border: #999999 20px solid;
+    margin: 20px 0px 20px;
+    position: relative;
+}
+
+.flower-img {
+    width: 175px;
+    height: 175px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+
+.card1-text, .card2-text, .card3-text {
+    color: #333333;
+    background-color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+@media only screen and (min-width: 0) {
+    .card-cont {
+        height: 300px;
+        top: -845px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 200px;
+        height: 200px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+    }
+    
+    .food-img {
+        width: 140px;
+        height: 140px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 230px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 200px;
+        height: 200px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        top: 15px;
+    }
+    
+    .craft-img {
+        width: 120px;
+        height: 120px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 230px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 200px;
+        height: 200px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: 30px;
+    }
+    
+    .flower-img {
+        width: 125px;
+        height: 125px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 230px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 620px) {
+    .card-cont {
+        height: 300px;
+        top: -895px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 230px;
+        height: 230px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+    }
+    
+    .food-img {
+        width: 170px;
+        height: 170px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 260px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 230px;
+        height: 230px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        top: 15px;
+    }
+    
+    .craft-img {
+        width: 150px;
+        height: 150px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 260px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 230px;
+        height: 230px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: 30px;
+    }
+    
+    .flower-img {
+        width: 155px;
+        height: 155px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 260px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    .card-cont {
+        height: 300px;
+        top: -895px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 230px;
+        height: 230px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        left: -150px;
+    }
+    
+    .food-img {
+        width: 170px;
+        height: 170px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 260px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 230px;
+        height: 230px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        top: -250px;
+        left: 150px;
+    }
+    
+    .craft-img {
+        width: 150px;
+        height: 150px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 260px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 230px;
+        height: 230px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: -180px;
+    }
+    
+    .flower-img {
+        width: 155px;
+        height: 155px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 260px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 840px) {
+    .card-cont {
+        height: 300px;
+        top: -925px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        left: -175px;
+    }
+    
+    .food-img {
+        width: 190px;
+        height: 190px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        top: -270px;
+        left: 175px;
+    }
+    
+    .craft-img {
+        width: 170px;
+        height: 170px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: -200px;
+    }
+    
+    .flower-img {
+        width: 175px;
+        height: 175px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 285px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+
+@media only screen and (min-width: 960px) {
+    .card-cont {
+        height: 300px;
+        top: -925px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        left: -297px;
+    }
+    
+    .food-img {
+        width: 190px;
+        height: 190px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        left: 0px;
+    }
+    
+    .craft-img {
+        width: 170px;
+        height: 170px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: -540px;
+        left: 300px;
+    }
+    
+    .flower-img {
+        width: 175px;
+        height: 175px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 285px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -9px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 1060px) {
+    .card-cont {
+        height: 300px;
+        top: -995px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        left: -297px;
+    }
+    
+    .food-img {
+        width: 190px;
+        height: 190px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        top: -270px;
+        left: 0px;
+    }
+    
+    .craft-img {
+        width: 170px;
+        height: 170px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: -540px;
+        left: 300px;
+    }
+    
+    .flower-img {
+        width: 175px;
+        height: 175px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 285px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -9px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 1270px) {
+    .card-cont {
+        height: 300px;
+        top: -1000px;
+        justify-items: center;
+    }
+    
+    .card-option1 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        left: -347px;
+    }
+    
+    .food-img {
+        width: 190px;
+        height: 190px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .card1-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -20px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option2 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 25px solid;
+        margin: 20px 0px 20px;
+        top: -270px;
+        left: 0px;
+    }
+    
+    .craft-img {
+        width: 170px;
+        height: 170px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    
+    .card2-text {
+        width: 280px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -10px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    
+    .card-option3 {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        border: #999999 20px solid;
+        margin: 20px 0px 20px;
+        top: -540px;
+        left: 350px;
+    }
+    
+    .flower-img {
+        width: 175px;
+        height: 175px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+    
+    .card3-text {
+        width: 285px;
+        text-align: center;
+        position: relative;
+        left: -40px;
+        top: -9px;
+        padding: 2px 3px 2px;
+        border: lightblue 10px solid;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+}
+
+footer {
+    background-image: url('bg-swhite4.png'); /* Replace with your image URL */
+    background-size: cover; /* Makes sure the background covers the entire footer */
+    background-position: center center;
+    color: #333333; 
+    padding: 20px 0;
+    text-align: center;
+    clear: both;
+    min-height: 400px;
+}
+
+footer ul {
+    list-style-type: none; /* Removes default list bullets */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+}
+
+footer ul li {
+    display: inline-block; /* Displays the list items in a row */
+    margin-right: 15px; /* Adds space between the list items */
+}
+
+footer ul li a {
+    color: white; /* Sets link color to white */
+    text-decoration: none; /* Removes underline from links */
+    font-size: 16px; /* Adjust font size as needed */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+footer ul li a:hover {
+    color: #FFD700; /* Changes link color to gold on hover */
+}
+
+footer p {
+    margin-top: 20px; /* Adds space between the list and the copyright text */
+    font-size: 14px; /* Smaller font size for the copyright */
+    color: white; /* White color for the copyright text */
+}
+
+/* For very small screens (below 600px), show the element again */
+@media only screen and (min-width: 480px) {
+    footer {
+        visibility: hidden; 
+    }
+}
+
+
+@media only screen and (max-width: 640px) {
+    footer {
+        visibility: visible; 
+    }
+}
+
+
+
+/* ----------------- WHY SECTION --------------------------*/
+
+.centered-container1 {
+    margin: 0px 0px 0px;
+    width: 100%;
+}
+
+.centered-column3, 
+.centered-column5 {
+    text-align: center;
+    margin: 0px 20% 0px;
+}
+
+.centered-column1,
+.centered-column2,
+.centered-column4 {
+    text-align: justify;
+    margin: 0px 20% 0px;
+    z-index: 1;
+}
+
+.centered-column2 {
+    color: whitesmoke;
+}
+
+.centered-column3, 
+.centered-column4,
+.centered-column5 {
+    color: whitesmoke;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    font-size: clamp(15px, 2vw, 17px);
+}
+
+.where {
+    font-size: clamp(20px, 3vw, 30px);
+}
+
+.key-products {
+    font-size: clamp(1.2rem, 3vw, 1.5rem);
+    font-weight: bold;
+    margin-bottom: 10px;
+    position: relative;
+    left: -0px;
+    top: 20px;
+}
+
+.why-choose {
+    font-size: clamp(25px, 3vw, 30px);
+    font-weight: bold;
+}
+
+.experience-difference {
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    font-weight: bold;
+}
+
+.service-item {
+    font-size: clamp(1rem, 2.5vw, 1.1rem);
+}
+
+/* ------------------- END OF WHY SECTION ------------------ */
+
+
+/* ------------------- ABOUT US SECTION --------------------*/
+
+.card-profile {
+    border: 1px solid #6d4c41; /* Red border */
+    padding: 20px;
+    margin: 20px; /* Space from other elements */
+    box-sizing: content-box;
+    border-radius: 8px; /* Optional: rounded corners */
+}
+
+.profile {
+    height: 60px;
+    width: 60px;
+    background-color: #333333;
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+
+.card-profile .profile-img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+/* Set card size */
+.card-profile {
+    width: 200px;  /* or any width you want */
+    margin: 0 auto; /* Center the card */
+}
+
+@media (max-width: 600px) {
+    .card-profile {
+        width: 150px;  /* Adjust for smaller screens */
+    }
+}
+.centered-container2{
+    margin: 0px;
+    width: 100%;
+}
+
+.about-container, .about-content, .contact-info {
+    margin: 0px 10% 0px;
+}
+
+.about-container, .hello, .contact-info {
+    text-align: justify;
+}
+
+.contact-info {
+    color: whitesmoke;
+}
+
+.linkweb {
+    color: rgb(238, 236, 113);
+    text-decoration: underline;
+}
+
+/* ------------------- END OF ABOUT US SECTION ---------------------- */
+
+/* ----------------------------- PRICING SECTION --------------------*/
+
+.section-title {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+/* Table Styles */
+.pricing-table {
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    background-color: wheat;
+    border-radius: 10px;
+}
+
+.pricing-table th, .pricing-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.pricing-table th {
+    background-color: #333333;
+    color: white;
+}
+
+/* Hover Effects for Rows */
+.pricing-table tr:nth-child(even):hover {
+    background-color: rgb(228, 166, 207);
+}
+
+.pricing-table tr:nth-child(odd):hover {
+    background-color: rgb(172, 137, 214);
+}
+
+.pricing-table tr:hover {
+    cursor: pointer;
+}
+
+.price-col, .tag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pricing-benefits, .faq-section {
+    margin: 0px 15% 0px;
+    color: whitesmoke;
+}
+
+.choose, .ask {
+    font-size: clamp(35px, 2vw, 45px);
+}
+
+.ques {
+    font-size: clamp(20px, 1vw, 24px);
+}
+
+.qt {
+    font-size: clamp(16px, 1vw, 18px);
+    margin-bottom: 10px;
+}
+
+/* ---------------- END OF PRICING SECTION ------------------ */
+
+/* -------------------- SERVICES SECTION ------------------ */
+
+
+.services-container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.service-card {
+    background-color: #e3f2fd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.service-title {
+    font-size: 1.5em;
+    color: #0288d1;
+    margin-bottom: 10px;
+}
+
+.service-description {
+    font-size: 1em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.btn-contact, .btn-contact1 {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #0288d1;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-contact:hover, .btn-contact1:hover {
+    background-color: #01579b;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .services-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.header {
+    background-color: #f4b400;
+    text-align: center;
+    padding: 2rem 1rem;
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.header p {
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem;
+}
+
+.services {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.service {
+    background-color: #fff;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.service h2 {
+    margin-top: 0;
+    color: #f4b400;
+    font-size: 1.5rem;
+}
+
+.service p {
+    margin: 0.5rem 0 0;
+    font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 2rem;
+    }
+
+    .header p {
+        font-size: 1rem;
+    }
+
+    .service h2 {
+        font-size: 1.3rem;
+    }
+
+    .service p {
+        font-size: 0.9rem;
+    }
+
+.service, .header-content {
+margin: 0px 10% 0px;
+}
+
+.service {
+    margin: 0px 10% 0px;
+    justify-items: center;
+    text-align: justify;
+}
+
+.header-content {
+    margin: 0px 10% 0px;
+    justify-itemS: center;
+    text-align: center;
+}
+}
+
+/*--------------- Products section --------*/
+
+
+.slider, .slides {
+    background-color: transparent;
+    background-image: none;
+    height: 100%;
+    width: 100%;
+    object-fit: contain; 
+}
+
+.art-img {
+    background-color: transparent;
+    background-color: none;
+    height: 472px;
+    width: 528px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.category {
+    display: flex;
+    flex-direction: column; /* Always stack text and images vertically */
+    margin-bottom: 40px;
+}
+
+.category-text {
+    padding-right: 20px;
+}
+
+.category-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the images below the text */
+    align-items: center;
+    gap: 10px; /* Adds space between images */
+}
+
+/* Image styling */
+.category-images img {
+    width: 200px; /* Fixed size */
+    height: 200px; /* Fixed size */
+    border-radius: 10px;
+    object-fit: cover;
+    /* Removed any transitions or hover effects */
+}
+
+/* Title and paragraph styling */
+h2 {
+    color: black;
+}
+
+p {
+    color: black;
+    line-height: 1.6;
+    text-align: justify;
+}
